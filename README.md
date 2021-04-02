@@ -1,1 +1,2 @@
-# Portfolio website to showcase some of my projects
+# Portfolio
+- Simple website to showcase my projects
